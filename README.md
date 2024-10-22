@@ -12,8 +12,22 @@ These scripts come **as is**. If you're not sure what a script is doing, it migh
 - Occasional support for **Arch** and **RHEL**.
 - **Tools** to make everyday tasks on Linux easier.
 
-## 🐧 **Usage**
-```bash
-chmod +x scriptname.sh
+## **Running the Scripts**
+You'll run them like any other scripts, just remember!
+```
+chmod +x scriptname.sh 
+```
+and 
+```
+sudo ./scriptname.sh
+```
+## **The script isn't woring right?**
+Sometimes, installing dos2unix fixes this issue with scripts. At least, it does for me. 
+```
+sudo apt install dos2unix -y
+```
+## **🔄 Contributions**
+I don't really take them, but I will not really turn them away? Firm believer in FOSS? Yeah!
 
-## **Running Scripts**
+## **❓ Support**
+I do not offer much but will answer questions when I can. Please remember that Linux isn't for everyone, but I applaud you for making the jump. 
