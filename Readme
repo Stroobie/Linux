@@ -1,32 +1,19 @@
-**Stroobie's Linux Scripts
-Welcome to Stroobie's Linux Scripts! This repository contains a collection of scripts Stroobie has put together to simplify life while using Linux. While Stroobie primarily works in Debian-based environments, you'll also find scripts for Arch and RHEL when required.
+# Stroobie's Linux Scripts
 
-**⚠️ Disclaimer
-These scripts come as is. If you're not sure what a script is doing, it might be best not to run it. While Stroobie can promise the scripts are safe, using Linux effectively means practicing good security measures. If no one asks you to be careful, you won’t learn anything!
+Welcome to **Stroobie's Linux Scripts**! This repository contains a collection of scripts Stroobie has put together to simplify life while using Linux. While Stroobie primarily works in Debian-based environments, you'll also find scripts for Arch and RHEL when required.
 
-**Remember: Your security is your responsibility. Always review scripts and understand their impact on your system.
+## ⚠️ **Disclaimer**
+These scripts come **as is**. If you're not sure what a script is doing, it might be best not to run it. While Stroobie can promise the scripts are safe, using Linux effectively means practicing good security measures. If no one asks you to be careful, you won’t learn anything!
 
-**🛠️ What's Inside?
-Scripts for Debian-based distributions.
-Occasional support for Arch and RHEL.
-Tools to make everyday tasks on Linux easier.
-**🐧 Usage
-Clone the repository:
-bash
-Copy code
+> **Remember:** Your security is your responsibility. Always review scripts and understand their impact on your system.
+
+## 🛠️ **What's Inside?**
+- Scripts for **Debian-based distributions**.
+- Occasional support for **Arch** and **RHEL**.
+- **Tools** to make everyday tasks on Linux easier.
+
+## 🐧 **Usage**
+
+### **Clone the repository:**
+```bash
 git clone https://github.com/yourusername/stroobie-linux-scripts.git
-Make a script executable:
-bash
-Copy code
-chmod +x scriptname.sh
-Run the script:
-bash
-Copy code
-sudo ./scriptname.sh
-**🔄 Contributions
-Stroobie welcomes contributions, but keep in mind these scripts are written primarily for Stroobie's own needs. If you’d like to submit improvements or new scripts, feel free to open a pull request!
-
-**❓ Support
-If you run into any issues, open an issue in the repo, but don't expect too much hand-holding. Linux is all about self-learning and discovery.
-
-**Happy scripting!
