@@ -13,8 +13,7 @@ These scripts come **as is**. If you're not sure what a script is doing, it migh
 - **Tools** to make everyday tasks on Linux easier.
 
 ## 🐧 **Usage**
-
-### **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/stroobie-linux-scripts.git
+chmod +x scriptname.sh
 
+## **Running Scripts**
